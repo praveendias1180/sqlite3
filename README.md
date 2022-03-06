@@ -9,3 +9,7 @@ https://www.sqlite.org/
 [Download Sample DB](chinook.db)
 
 ![Sample DB](sampledb.png)
+
+# Saving Query Results to a File
+
+![Albums](albums.png)
