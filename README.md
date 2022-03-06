@@ -15,3 +15,7 @@ https://www.sqlite.org/
 [albums.txt](albums.txt)
 
 ![Albums](albums.png)
+
+# Read Commands from File
+
+![Read Commands](read-commands.png)
