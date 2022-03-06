@@ -12,4 +12,6 @@ https://www.sqlite.org/
 
 # Saving Query Results to a File
 
+[albums.txt](albums.txt)
+
 ![Albums](albums.png)
